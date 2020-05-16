@@ -1,1 +1,2 @@
 Adding some info about new features
+Fix1
