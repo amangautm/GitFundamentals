@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Adding some code here.
 Adding more code yet
+=======
+Adding some info about new features
+Fix1
+>>>>>>> db93abb... Added fix1
