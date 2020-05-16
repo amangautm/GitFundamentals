@@ -2,6 +2,11 @@
 Adding some code here.
 Adding more code yet
 =======
+
+
 Adding some info about new features
 Fix1
+<<<<<<< HEAD
 >>>>>>> db93abb... Added fix1
+=======
+>>>>>>> v1.0_fixes
